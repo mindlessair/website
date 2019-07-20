@@ -15,7 +15,7 @@ server.use(cors(corsOptions));
 server.post("/upload", upload);
 
 server.get('/download', function (req, res) {
-  const file = `${__dirname}\\sorted.zip`;
+  const file = `${__dirname}/sorted.zip`;
   console.log(file);
   res.download(file);
 });
