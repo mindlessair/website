@@ -43,10 +43,8 @@ function move_file(source, dest) {
 function move_folder(source, dest, file_name) {
     return new Promise((resolve, reject) => {
     console.log('moving folder');
-    fs.move(source + file_name + '/', dest, function (err) {
-        if (err) throw err;
-        return resolve(true);
-    });
+    const mv_folder_contents = spawn('mv', ['-v', source+file_name+'/*', dest]);
+    return resolve(true);
     });
 };
 
