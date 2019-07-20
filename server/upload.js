@@ -1,5 +1,5 @@
 const IncomingForm = require("formidable").IncomingForm;
-const fs = require('fs');
+const fs = require('fs-extra');
 const mv = require('mv');
 const path = require('path');
 const extract = require('extract-zip');
@@ -43,7 +43,7 @@ function move_file(source, dest) {
 function move_folder(source, dest, file_name) {
     return new Promise((resolve, reject) => {
     console.log('moving folder');
-    mv(source + file_name, dest, {clobber: false, mkdirp: true}, function (err) {
+    fs.move(source + file_name + '/', dest, function (err) {
         if (err) throw err;
         return resolve(true);
     });
