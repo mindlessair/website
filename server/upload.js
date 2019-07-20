@@ -5,10 +5,10 @@ const path = require('path');
 const extract = require('extract-zip');
 const spawn = require('child_process').spawn;
 
-var upload_path = __dirname + '\\uploads\\';
-var image_path = __dirname + '\\images\\';
-var python_script = __dirname + '\\sort_images.py';
-var sorted_zip = __dirname + '\\sorted.zip';
+var upload_path = __dirname + '/uploads//';
+var image_path = __dirname + '/images/';
+var python_script = __dirname + '/sort_images.py';
+var sorted_zip = __dirname + '/sorted.zip';
 
 module.exports = function upload(req, res) {
   var form = new IncomingForm();
