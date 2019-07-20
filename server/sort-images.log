@@ -1,0 +1,472 @@
+2019-07-20 13:48:36,506 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 13:48:36,506 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 13:48:36,506 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:48:36,506 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:48:36,506 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 13:48:36,507 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:48:36,508 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- created
+2019-07-20 13:48:36,508 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:48:36,508 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- created
+2019-07-20 13:48:36,508 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 13:48:36,508 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- created
+2019-07-20 13:48:36,509 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 13:48:36,509 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- created
+2019-07-20 13:48:36,528 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 13:48:36,528 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- created
+2019-07-20 13:48:36,528 - sort-images - INFO - Attempting to move \astronaut-with-flag-digital-art-4k-xn-2560x1440.jpg to C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440\\astronaut-with-flag-digital-art-4k-xn-2560x1440.jpg
+2019-07-20 13:48:36,534 - sort-images - INFO - Moved \astronaut-with-flag-digital-art-4k-xn-2560x1440.jpg to C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440\\astronaut-with-flag-digital-art-4k-xn-2560x1440.jpg
+2019-07-20 13:48:36,534 - sort-images - INFO - Attempting to move \Capture.PNG to C:\Users\John\Desktop\website\server\sorted\others\249x331\\Capture.PNG
+2019-07-20 13:48:36,535 - sort-images - INFO - Moved \Capture.PNG to C:\Users\John\Desktop\website\server\sorted\others\249x331\\Capture.PNG
+2019-07-20 13:50:48,705 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 13:50:48,705 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 13:50:48,705 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:50:48,705 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:50:48,705 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 13:50:48,706 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:50:48,706 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 13:50:48,706 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:50:48,706 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 13:50:48,706 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 13:50:48,706 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 13:50:48,706 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 13:50:48,706 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 13:50:48,722 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 13:50:48,722 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 13:51:49,804 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 13:51:49,804 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 13:51:49,804 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:51:49,804 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:51:49,804 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 13:51:49,804 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:51:49,805 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 13:51:49,805 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:51:49,805 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 13:51:49,805 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 13:51:49,805 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 13:51:49,805 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 13:51:49,805 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 13:51:49,820 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 13:51:49,820 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 13:53:29,823 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 13:53:29,824 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 13:53:29,824 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:53:29,824 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:53:29,824 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 13:53:29,824 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:53:29,824 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 13:53:29,824 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:53:29,824 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 13:53:29,824 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 13:53:29,825 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 13:53:29,825 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 13:53:29,825 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 13:53:29,840 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 13:53:29,840 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 13:54:41,228 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 13:54:41,229 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 13:54:41,229 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:54:41,229 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:54:41,229 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 13:54:41,229 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:54:41,229 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 13:54:41,229 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:54:41,229 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 13:54:41,229 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 13:54:41,229 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 13:54:41,229 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 13:54:41,230 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 13:54:41,243 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 13:54:41,244 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 13:56:49,864 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 13:56:49,864 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 13:56:49,864 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:56:49,864 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:56:49,864 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 13:56:49,865 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:56:49,865 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 13:56:49,865 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:56:49,865 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 13:56:49,865 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 13:56:49,865 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 13:56:49,865 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 13:56:49,865 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 13:56:49,882 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 13:56:49,882 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 13:59:12,139 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 13:59:12,140 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 13:59:12,140 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:59:12,140 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:59:12,140 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 13:59:12,140 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:59:12,140 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 13:59:12,140 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:59:12,141 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 13:59:12,141 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 13:59:12,141 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 13:59:12,141 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 13:59:12,141 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 13:59:12,157 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 13:59:12,157 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 13:59:42,929 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 13:59:42,929 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 13:59:42,929 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:59:42,929 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:59:42,929 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 13:59:42,929 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 13:59:42,929 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 13:59:42,929 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 13:59:42,929 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 13:59:42,930 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 13:59:42,930 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 13:59:42,930 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 13:59:42,930 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 13:59:42,944 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 13:59:42,944 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:00:16,316 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:00:16,316 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:00:16,316 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:00:16,316 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:00:16,316 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:00:16,317 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:00:16,317 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:00:16,317 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:00:16,317 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:00:16,317 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:00:16,317 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:00:16,317 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:00:16,317 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:00:16,332 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:00:16,332 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:01:16,430 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:01:16,430 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:01:16,430 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:01:16,430 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:01:16,431 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:01:16,431 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:01:16,431 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- created
+2019-07-20 14:01:16,431 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:01:16,432 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- created
+2019-07-20 14:01:16,432 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:01:16,432 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- created
+2019-07-20 14:01:16,432 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:01:16,432 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- created
+2019-07-20 14:01:16,448 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:01:16,448 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- created
+2019-07-20 14:01:16,448 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:01:16,449 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- created
+2019-07-20 14:01:16,449 - sort-images - INFO - Attempting to move \1.png to C:\Users\John\Desktop\website\server\sorted\others\736x152\\1.png
+2019-07-20 14:01:16,451 - sort-images - INFO - Moved \1.png to C:\Users\John\Desktop\website\server\sorted\others\736x152\\1.png
+2019-07-20 14:01:16,451 - sort-images - INFO - Attempting to move \2.png to C:\Users\John\Desktop\website\server\sorted\others\418x324\\2.png
+2019-07-20 14:01:16,452 - sort-images - INFO - Moved \2.png to C:\Users\John\Desktop\website\server\sorted\others\418x324\\2.png
+2019-07-20 14:01:49,706 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:01:49,707 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:01:49,707 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:01:49,707 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:01:49,707 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:01:49,707 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:01:49,707 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:01:49,707 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:01:49,707 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:01:49,707 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:01:49,707 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:01:49,707 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:01:49,708 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:01:49,726 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:01:49,726 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:01:49,726 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:01:49,726 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:01:49,726 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:01:49,726 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- created
+2019-07-20 14:01:49,727 - sort-images - INFO - Attempting to move \astronaut-with-flag-digital-art-4k-xn-2560x1440.jpg to C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440\\astronaut-with-flag-digital-art-4k-xn-2560x1440.jpg
+2019-07-20 14:01:49,728 - sort-images - INFO - Moved \astronaut-with-flag-digital-art-4k-xn-2560x1440.jpg to C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440\\astronaut-with-flag-digital-art-4k-xn-2560x1440.jpg
+2019-07-20 14:01:49,729 - sort-images - INFO - Attempting to move \Capture.PNG to C:\Users\John\Desktop\website\server\sorted\others\249x331\\Capture.PNG
+2019-07-20 14:01:49,730 - sort-images - INFO - Moved \Capture.PNG to C:\Users\John\Desktop\website\server\sorted\others\249x331\\Capture.PNG
+2019-07-20 14:02:58,862 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:02:58,862 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:02:58,863 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:02:58,863 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:02:58,863 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:02:58,863 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:02:58,863 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:02:58,863 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:02:58,863 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:02:58,863 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:02:58,863 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:02:58,863 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:02:58,863 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:02:58,879 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:02:58,879 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:02:58,879 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:02:58,879 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:02:58,879 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:02:58,879 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:03:44,882 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:03:44,882 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:03:44,882 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:03:44,882 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:03:44,883 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:03:44,883 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:03:44,883 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:03:44,883 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:03:44,883 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:03:44,883 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:03:44,883 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:03:44,883 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:03:44,883 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:03:44,897 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:03:44,897 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:03:44,897 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:03:44,897 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:03:44,897 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:03:44,898 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:04:12,153 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:04:12,153 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:04:12,153 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:04:12,153 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:04:12,153 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:04:12,154 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:04:12,154 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:04:12,154 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:04:12,154 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:04:12,154 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:04:12,154 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:04:12,154 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:04:12,154 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:04:12,169 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:04:12,169 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:04:12,169 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:04:12,169 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:04:12,169 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:04:12,169 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:04:56,332 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:04:56,332 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:04:56,332 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:04:56,332 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:04:56,332 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:04:56,333 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:04:56,333 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:04:56,333 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:04:56,333 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:04:56,333 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:04:56,333 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:04:56,333 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:04:56,333 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:04:56,347 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:04:56,348 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:04:56,348 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:04:56,348 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:04:56,348 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:04:56,348 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:05:23,772 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:05:23,772 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:05:23,772 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:05:23,772 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:05:23,772 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:05:23,773 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:05:23,773 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:05:23,773 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:05:23,773 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:05:23,773 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:05:23,773 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:05:23,773 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:05:23,773 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:05:23,789 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:05:23,789 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:05:23,789 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:05:23,790 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:05:23,790 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:05:23,790 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:06:43,854 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:06:43,854 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:06:43,854 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:06:43,854 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:06:43,854 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:06:43,855 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:06:43,855 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:06:43,855 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:06:43,855 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:06:43,855 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:06:43,855 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:06:43,855 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:06:43,855 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:06:43,870 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:06:43,870 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:06:43,871 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:06:43,871 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:06:43,871 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:06:43,871 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:07:17,634 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:07:17,634 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:07:17,634 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:07:17,634 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:07:17,635 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:07:17,635 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:07:17,635 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:07:17,635 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:07:17,635 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:07:17,635 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:07:17,635 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:07:17,635 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:07:17,635 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:07:17,651 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:07:17,651 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:07:17,651 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:07:17,651 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:07:17,651 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:07:17,651 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:07:55,774 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:07:55,774 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:07:55,774 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:07:55,774 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:07:55,774 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:07:55,774 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:07:55,774 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:07:55,774 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:07:55,774 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:07:55,775 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:07:55,775 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:07:55,775 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:07:55,775 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:07:55,790 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:07:55,790 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:07:55,790 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:07:55,790 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:07:55,790 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:07:55,790 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:08:37,532 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:08:37,532 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:08:37,532 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:08:37,532 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:08:37,532 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:08:37,532 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:08:37,532 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:08:37,533 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:08:37,533 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:08:37,533 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:08:37,533 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:08:37,533 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:08:37,533 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:08:37,548 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:08:37,548 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:08:37,548 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:08:37,548 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:08:37,548 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\249x331\
+2019-07-20 14:08:37,548 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\249x331\ -- already exists
+2019-07-20 14:09:12,963 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:09:12,963 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:09:12,963 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:09:12,963 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:09:12,963 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:09:12,963 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:09:12,964 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- created
+2019-07-20 14:09:12,964 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:09:12,964 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- created
+2019-07-20 14:09:12,964 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:09:12,965 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- created
+2019-07-20 14:09:12,965 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:09:12,965 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- created
+2019-07-20 14:09:12,982 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:09:12,982 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- created
+2019-07-20 14:09:12,982 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:09:12,983 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- created
+2019-07-20 14:09:12,983 - sort-images - INFO - Attempting to move \1.png to C:\Users\John\Desktop\website\server\sorted\others\736x152\\1.png
+2019-07-20 14:09:12,985 - sort-images - INFO - Moved \1.png to C:\Users\John\Desktop\website\server\sorted\others\736x152\\1.png
+2019-07-20 14:09:12,985 - sort-images - INFO - Attempting to move \2.png to C:\Users\John\Desktop\website\server\sorted\others\418x324\\2.png
+2019-07-20 14:09:12,986 - sort-images - INFO - Moved \2.png to C:\Users\John\Desktop\website\server\sorted\others\418x324\\2.png
+2019-07-20 14:17:53,771 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:17:53,771 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:17:53,771 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:17:53,771 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:17:53,771 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:17:53,771 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:17:53,772 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:17:53,772 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:17:53,772 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:17:53,772 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:17:53,772 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:17:53,772 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:17:53,772 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:17:53,811 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:17:53,811 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:17:53,811 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:17:53,811 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:17:53,811 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:17:53,812 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- created
+2019-07-20 14:17:53,812 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:17:53,812 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:17:53,812 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:17:53,812 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:17:53,812 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:17:53,813 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:17:53,813 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:17:53,813 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:17:53,813 - sort-images - INFO - Attempting to move \IMG_7659.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7659.jpg
+2019-07-20 14:17:53,845 - sort-images - INFO - Moved \IMG_7659.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7659.jpg
+2019-07-20 14:17:53,846 - sort-images - INFO - Attempting to move \IMG_7660.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7660.jpg
+2019-07-20 14:17:53,884 - sort-images - INFO - Moved \IMG_7660.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7660.jpg
+2019-07-20 14:17:53,884 - sort-images - INFO - Attempting to move \IMG_7661.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7661.jpg
+2019-07-20 14:17:53,914 - sort-images - INFO - Moved \IMG_7661.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7661.jpg
+2019-07-20 14:17:53,914 - sort-images - INFO - Attempting to move \IMG_7662.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7662.jpg
+2019-07-20 14:17:53,941 - sort-images - INFO - Moved \IMG_7662.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7662.jpg
+2019-07-20 14:17:53,942 - sort-images - INFO - Attempting to move \IMG_7663.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7663.jpg
+2019-07-20 14:17:53,969 - sort-images - INFO - Moved \IMG_7663.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7663.jpg
+2019-07-20 14:18:39,231 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:18:39,232 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:18:39,232 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:18:39,232 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:18:39,232 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:18:39,232 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:18:39,232 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- already exists
+2019-07-20 14:18:39,232 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:18:39,232 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- already exists
+2019-07-20 14:18:39,232 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:18:39,232 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- already exists
+2019-07-20 14:18:39,233 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:18:39,233 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- already exists
+2019-07-20 14:18:39,252 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\736x152\
+2019-07-20 14:18:39,252 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\736x152\ -- already exists
+2019-07-20 14:18:39,252 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\418x324\
+2019-07-20 14:18:39,252 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\418x324\ -- already exists
+2019-07-20 14:18:39,252 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:18:39,253 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:18:39,253 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:18:39,253 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:18:39,253 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:18:39,253 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:18:39,253 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:18:39,253 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:18:39,253 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:18:39,253 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:32:45,758 - sort-images - INFO - Using Windows based filepath slashes
+2019-07-20 14:32:45,759 - sort-images - INFO - Creating source folder variable: C:\Users\John\Desktop\website\server\images
+2019-07-20 14:32:45,759 - sort-images - INFO - Creating favorite folder variable: C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:32:45,759 - sort-images - INFO - Creating others folder variable: C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:32:45,759 - sort-images - INFO - Creating all image paths variable: ['C:\\Users\\John\\Desktop\\website\\server\\sorted\\favorites\\', 'C:\\Users\\John\\Desktop\\website\\server\\sorted\\others']
+2019-07-20 14:32:45,759 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\
+2019-07-20 14:32:45,760 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\ -- created
+2019-07-20 14:32:45,760 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others
+2019-07-20 14:32:45,760 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others -- created
+2019-07-20 14:32:45,760 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080
+2019-07-20 14:32:45,761 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\1920x1080 -- created
+2019-07-20 14:32:45,761 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440
+2019-07-20 14:32:45,761 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\favorites\2560x1440 -- created
+2019-07-20 14:32:45,801 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:32:45,802 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- created
+2019-07-20 14:32:45,802 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:32:45,802 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:32:45,802 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:32:45,802 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:32:45,802 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:32:45,802 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:32:45,802 - sort-images - INFO - Attempting to create folder - C:\Users\John\Desktop\website\server\sorted\others\6000x4000\
+2019-07-20 14:32:45,802 - sort-images - INFO - Folder -- C:\Users\John\Desktop\website\server\sorted\others\6000x4000\ -- already exists
+2019-07-20 14:32:45,802 - sort-images - INFO - Attempting to move \IMG_7659.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7659.jpg
+2019-07-20 14:32:45,836 - sort-images - INFO - Moved \IMG_7659.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7659.jpg
+2019-07-20 14:32:45,836 - sort-images - INFO - Attempting to move \IMG_7660.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7660.jpg
+2019-07-20 14:32:45,869 - sort-images - INFO - Moved \IMG_7660.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7660.jpg
+2019-07-20 14:32:45,869 - sort-images - INFO - Attempting to move \IMG_7661.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7661.jpg
+2019-07-20 14:32:45,902 - sort-images - INFO - Moved \IMG_7661.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7661.jpg
+2019-07-20 14:32:45,903 - sort-images - INFO - Attempting to move \IMG_7662.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7662.jpg
+2019-07-20 14:32:45,928 - sort-images - INFO - Moved \IMG_7662.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7662.jpg
+2019-07-20 14:32:45,928 - sort-images - INFO - Attempting to move \IMG_7663.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7663.jpg
+2019-07-20 14:32:45,967 - sort-images - INFO - Moved \IMG_7663.jpg to C:\Users\John\Desktop\website\server\sorted\others\6000x4000\\IMG_7663.jpg
