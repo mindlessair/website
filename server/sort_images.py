@@ -88,6 +88,6 @@ def main():
     remove_images = glob.glob(source_folder+"{}*".format(slash))
     for f in remove_images:
         os.remove(f)
-    shutil.rmtree(sorted_folder)
+    # shutil.rmtree(sorted_folder)
 if __name__ == "__main__":
     main()
