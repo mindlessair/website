@@ -85,9 +85,9 @@ def main():
     create_folders(other_resolutions_list)
     move_images(images)
     shutil.make_archive('sorted', 'zip', sorted_folder)
-    remove_images = glob.glob(source_folder+"{}*".format(slash))
-    for f in remove_images:
-        os.remove(f)
+    # remove_images = glob.glob(source_folder+"{}*".format(slash))
+    # for f in remove_images:
+    #     os.remove(f)
     # shutil.rmtree(sorted_folder)
 if __name__ == "__main__":
     main()
