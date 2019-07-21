@@ -44,7 +44,7 @@ function move_folder(source, dest, file_name) {
     return new Promise((resolve, reject) => {
     console.log('moving folder');
     console.log(source+file_name+'/');
-    mv(source+filename, dest, {mkdirp: true} function (err) {
+    mv(source+filename, dest, {mkdirp: true}, function (err) {
       if (err) throw err;
       return resolve(true);
     });
