@@ -45,7 +45,7 @@ class Upload extends Component {
   downloadRequest() {
     const req = new XMLHttpRequest();
     const formData = new FormData();
-    window.location.href = 'http://localhost:8000/download';
+    window.location.href = 'http://3.221.113.160:8000/download';
   }
   sendRequest(file) {
     return new Promise((resolve, reject) => {
@@ -79,7 +79,7 @@ class Upload extends Component {
       const formData = new FormData();
       formData.append("file", file, file.name);
 
-      req.open("POST", "http://localhost:8000/upload");
+      req.open("POST", "http://3.221.113.160:8000/upload");
       req.send(formData);
     });
   }
